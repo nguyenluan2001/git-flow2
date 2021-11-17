@@ -1,1 +1,1 @@
-hello from task 6
+hello
