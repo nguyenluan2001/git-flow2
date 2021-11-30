@@ -1,2 +1,0 @@
-add text
-add task 6 on github repo
